@@ -1,6 +1,9 @@
 # PhD Student Info
 This is a simple repo with info for my PhD students.
 
+UG: University of Groningen  
+UMCG: University Medical Center Groningen
+
 Written in 2023 by Matthijs Berends. 
 
 # First Steps
@@ -63,14 +66,19 @@ You can also click on further links in the browser and you’ll be redirected to
 
 ### UWP
 
+The UG provides the *universitaire werkplek* (UWP, university workspace) to all PhD students. It contains a desktop environment with a lot of useful software. Log in on <https://uwp.rug.nl> using your P-number and UG password.
+
 ### OneDrive
 
-Your UMCG email address is a Microsoft account with a lot of extra benefits. It allows you to install Office desktop apps on 5 conputers, to install Windows itself on (I believe) 2 computers and gives you access to many Microsoft services for free. 
+Your UMCG email address is a Microsoft account with a lot of extra benefits. It allows you to install Office desktop apps on 5 computers, to install Windows itself on (I believe) 2 computers and gives you access to many Microsoft services for free. 
 
-One of them is OneDrive with 1 TB (1024 GB) cloud space. 
+One of them is OneDrive with 1 TB (1024 GB) cloud space. Head over to [their website](https://onedrive.live.com) and download and install OneDrive. Log in with your UMCG account and all will be fine.
 
 ### Unishare
 
+The UG also provides a data storage service, just like OneDrive. It is called Unishare, and is technically a [Nextcloud](https://www.nextcloud.com) instance. It is immediately available without the need to set up. Important about this service is that the data are stored on UG servers and your data never leave your own university.
+
+All staff members, including all PhD students, get 250 GB cloud space. You can also create guest accounts for collaborative research work with other universities. Log in on <https://unishare.rug.nl> using your P-number and UG password. Synchronisation with your local operating system can be achieved by downloading and installing the [Nextcloud sync client](https://www.nextcloud.com/install).
 
 ## Programming / Code
 
@@ -78,6 +86,9 @@ Do realise that as a PhD candidate, you're considered a 'student' in many foreig
 
 ### Hábrók
 
+Hábrók is the high-performance cluster (hpc) of the UG, successor of Peregrine. You have to register for it to use it. You can run background jobs on this cluster that are computationally too heavy for your own device. 
+
+See <https://wiki.hpc.rug.nl/habrok/start> for more information, or ask me.
 
 ### GitHub
 
