@@ -35,6 +35,10 @@ Since you are a PhD student at a Dutch UMC (university medical centre), you migh
 This PhD will be one of the biggest projects in your life, and you are the project leader. This means that you will require tools to deal with that. The UG and the UMCG have you covered in multiple ways. 
 
 The UG, through the GSMS, provides free project management courses for PhD students. The UMCG provides you with a Microsoft account that contains Microsoft Planner and Microsoft To Do. Especially the former is a nice way to work with tasks in multiple projects, but you need to use what will fit you best, even if it is on paper.
+- The online version of Planner can be found here: <https://tasks.office.com>
+- The online version of To Do can be found here: <https://todo.microsoft.com>
+
+Both have apps available for iOS and Android.
 
 Both the UG and UMCG provide you with plenty of cloud space and great synchronisation software (see OneDrive and Unishare below), so there is never a need to lose your precious work. 
 
