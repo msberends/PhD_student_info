@@ -43,19 +43,19 @@ Written in 2023 by Dr. Matthijs Berends.
 
 ### Register
 
-To begin your PhD journey, it's crucial to register with our Graduate School for Medical Sciences (GSMS). You'll encounter the abbreviation GSMS frequently during your studies. Keep in mind that GSMS manages the PhD student progress system known as Hora Finita, a term you'll often hear just before you receive your doctorate after successfully defending your thesis.
+To begin your PhD journey, it's crucial to register with our Graduate School for Medical Sciences (GSMS). You'll encounter the abbreviation GSMS frequently during your studies. Keep in mind that GSMS manages the PhD student progress system known as 'Hora Finita', a term you'll also hear just before you receive your doctorate after successfully defending your thesis!
 
 You can initiate your registration [here](https://horafinita.rug.nl/registratie/).
 
 ### PhD Regulations
 
-Familiarise yourself with our PhD regulations, which are accessible [here](https://www.rug.nl/about-ug/organization/rules-and-regulations/onderzoek/promotiereglement?lang=en).
+Familiarise yourself with our PhD regulations, which are accessible [here](https://www.rug.nl/about-ug/organization/rules-and-regulations/onderzoek/promotiereglement?lang=en). This document contains the PhD requirements, formal details about the PhD program and ceremony, and much more. 
 
 For the Dutch 2022 version, you can find it [here](https://www.rug.nl/about-ug/organization/rules-and-regulations/onderzoek/8feb2022-promotiereglement.pdf).
 
 ### Scientific Code of Conduct
 
-At some point during your PhD journey, you'll be required to commit to adhering to the Dutch scientific code of conduct. This commitment can be made within Hora Finita. After successfully defending your PhD, just before receiving your doctorate, you'll take an oath that legally binds you to this code as a scientist.
+At the start of your PhD journey, you'll be required to commit to adhering to the Dutch scientific code of conduct. This commitment can be made within Hora Finita. After successfully defending your PhD, just before receiving your doctorate, you'll take an oath that legally binds you to this code as a scientist.
 
 You can access the code of conduct [here](https://www.nfu.nl/themas/randvoorwaarden-wetenschappelijk-onderzoek/wetenschappelijke-integriteit).
 
@@ -63,7 +63,7 @@ As a PhD student at a Dutch UMC (university medical centre), you may also find t
 
 ## Project Management
 
-Your PhD represents one of the most significant projects in your life, and you'll be in charge. This means you'll need effective tools to manage it. Fortunately, both the UG and the UMCG offer valuable support.
+Your PhD represents one of the most significant projects in your life, and you'll be the secretary-general. This means you'll need effective tools to manage it. Fortunately, both the UG and the UMCG offer valuable support.
 
 The UG, through GSMS, provides free project management courses designed specifically for PhD students. Additionally, UMCG provides you with a Microsoft account that includes Microsoft Planner and Microsoft To Do. Microsoft Planner is particularly useful for managing tasks across multiple projects. However, feel free to choose the tools that best suit your needs, even if you prefer traditional paper-based methods.
 
@@ -72,7 +72,7 @@ The UG, through GSMS, provides free project management courses designed specific
 
 Both services have dedicated apps available for both iOS and Android.
 
-Both the UG and UMCG also offer generous cloud storage options and excellent synchronization software (see OneDrive and Unishare below), ensuring your valuable work is always accessible and secure.
+Both the UG and UMCG also offer generous cloud storage options and excellent synchronisation software (see OneDrive and Unishare below), ensuring your valuable work is always accessible and secure.
 
 ## Next Steps
 
@@ -80,9 +80,9 @@ Both the UG and UMCG also offer generous cloud storage options and excellent syn
 
 #### ECCMID - European Congress of Clinical Microbiology and Infectious Diseases
 
-One of the most prestigious events in the field of clinical microbiology and infectious diseases is the **[European Congress of Clinical Microbiology and Infectious Diseases (ECCMID)](https://www.eccmid.org/)**. ECCMID is an annual congress that brings together experts, researchers, and professionals from around the world to discuss the latest advancements and breakthroughs in the field.
+One of the most prestigious events in the field of clinical microbiology and infectious diseases is the **[European Congress of Clinical Microbiology and Infectious Diseases (ECCMID)](https://www.eccmid.org/)**. ECCMID is an annual congress that brings together experts, researchers, and professionals from around the world to discuss the latest advancements and breakthroughs in the field. It is always held in a European city.
 
-Participating in ECCMID offers invaluable opportunities for PhD students. Here's why you should consider attending and presenting your work at ECCMID:
+Participating in ECCMID offers invaluable opportunities for PhD students. Here's why it's inportant to attend and present your work at ECCMID:
 
 - **Global Exposure**: ECCMID attracts a global audience, providing a platform to showcase your research to experts and peers from diverse backgrounds.
 
@@ -92,9 +92,16 @@ Participating in ECCMID offers invaluable opportunities for PhD students. Here's
 
 - **Presentation Opportunities**: You can present your work at ECCMID in various formats, including [paper posters](https://www.eccmid.org/abstracts/call_for_abstracts/), [ePosters](https://www.eccmid.org/scientific_programme/e-poster_gallery/), or even as an [oral presentation](https://www.eccmid.org/programme/scientific_programme/).
 
+#### Other International Congresses
+
+Other  international congresses include:
+
+- [International Congress of Antimicrobial Chemotherapy (ICC)](https://www.isac.world/meetings/icc), organised by the International Society of Antimicrobial Chemotherapy (ISAC)
+- [International Conference on Prevention & Infection Control (ICPIC)](https://conference.icpic.com)
+
 #### NVMM Scientific Spring Meeting
 
-The **Dutch Society for Medical Microbiology (NVMM)** hosts the **[Scientific Spring Meeting](https://www.nvmm.nl/voorjaarsvergadering/voorjaarsvergadering)** annually. This event gathers professionals and researchers in the field of medical microbiology and provides a platform for presenting your research and engaging in discussions.
+The **Dutch Society for Medical Microbiology (NVMM)** hosts the **[Scientific Spring Meeting](https://www.nvmm.nl/voorjaarsvergadering/voorjaarsvergadering)** annually. This event gathers professionals and researchers in the field of medical microbiology mainly from the Netherlands, and provides a platform for presenting your research and engaging in discussions.
 
 - **Local Focus**: This meeting is an excellent opportunity to connect with professionals in the Dutch medical microbiology community, fostering local collaboration.
 
@@ -104,7 +111,7 @@ The **Dutch Society for Medical Microbiology (NVMM)** hosts the **[Scientific Sp
 
 - **Practice for Bigger Conferences**: Presenting at local meetings like NVMM Scientific Spring Meeting can serve as valuable practice for larger international conferences like ECCMID.
 
-#### Presentation Formats
+#### Scientific Presentation Formats
 
 When considering conferences, think about how you want to present your research:
 
@@ -129,6 +136,8 @@ Building a professional network is a crucial aspect of your academic journey. He
 [ResearchGate](https://www.researchgate.net/) is a platform dedicated to academics and researchers. It allows you to share your publications, connect with peers, and follow the work of others in your field. You can also ask and answer research-related questions, fostering intellectual exchange.
 
 #### ORCID
+
+Creating an ORCID is mandatory by the GSMS.
 
 [ORCID](https://orcid.org/) provides a unique identifier for researchers. It ensures that your work is correctly attributed to you and enhances your visibility in the academic community. Register for an ORCID iD and link it to your research outputs.
 
