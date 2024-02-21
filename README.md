@@ -1,10 +1,12 @@
 # PhD Student Information
-This repository contains essential information for my PhD students.
+This page contains essential information for my PhD students. Although some parts of this page might be useful for any UG student, the focus lies on Medical Sciences, and within that on Clinical Microbiology / Infectious Diseases - my field of research.
 
+Notable abbreviations:
 - **UG**: University of Groningen  
 - **UMCG**: University Medical Center Groningen
+- **GSMS**: Graduate School of Medical Sciences
 
-Written in 2023 by Dr. Matthijs Berends.
+<small>2023-2024, Dr. Matthijs Berends.</small>
 
 # Table of Contents
 
@@ -14,8 +16,10 @@ Written in 2023 by Dr. Matthijs Berends.
     - [PhD Regulations](#phd-regulations)
     - [Scientific Code of Conduct](#scientific-code-of-conduct)
   - [Project Management](#project-management)
+  - [GSMS PhD Council](#gsms-phd-council)
   - [Next Steps](#next-steps)
     - [Conferences and Seminars](#conferences-and-seminars)
+      - [Declaring costs](#declaring-costs)
       - [ECCMID - European Congress of Clinical Microbiology and Infectious Diseases](#eccmid---european-congress-of-clinical-microbiology-and-infectious-diseases)
       - [NVMM Scientific Spring Meeting](#nvmm-scientific-spring-meeting)
       - [Presentation Formats](#presentation-formats)
@@ -74,9 +78,25 @@ Both services have dedicated apps available for both iOS and Android.
 
 Both the UG and UMCG also offer generous cloud storage options and excellent synchronisation software (see OneDrive and Unishare below), ensuring your valuable work is always accessible and secure.
 
+## GSMS PhD Council
+
+The [GSMS PhD Council](https://www.gsmsphdcouncil.org) of the University of Groningen represents the interests of all PhD students/candidates enrolled within the GSMS. In order to achieve this, the GSMS PhD Council:
+* Gathers information from the PhDs enrolled in the GSMS about needs and wishes for further improvement
+* Coordinates with the GSMS Board and other relevant bodies in order to ensure that GSMS PhDs have access to education, networking opportunities, and tools to ensure their well-being
+
+Be sure to follow [their planned events](https://www.gsmsphdcouncil.org/events). They are free for PhD students of the UG.
+
 ## Next Steps
 
 ### Conferences and Seminars
+
+#### Declaring Costs 
+
+GSMS provides you with a budget of € 1200 per calendar year for learning purposes. PhD students can declare up to € 600 for conferences they have participated in per calendar year. PhD students also can declare up to € 600 per calendar year for external courses they have participated in, if they are not offered by the GSMS, and are of Master level or above.
+
+**Important**: declarations must be done AFTER the conference/course but WITHIN 3 months after attending them.
+
+See this page from the GSMS PhD Council for more info: <https://www.gsmsphdcouncil.org/tips-and-tricks>.
 
 #### ECCMID - European Congress of Clinical Microbiology and Infectious Diseases
 
@@ -115,11 +135,13 @@ The **Dutch Society for Medical Microbiology (NVMM)** hosts the **[Scientific Sp
 
 When considering conferences, think about how you want to present your research:
 
-- **[Paper Poster](https://www.eccmid.org/abstracts/call_for_abstracts/)**: Traditional posters are an excellent way to visually represent your work and discuss it with attendees during dedicated poster sessions.
+- **Paper Poster**: Traditional posters are in A0-format and an excellent way to visually represent your work and discuss it with attendees during dedicated poster sessions.
 
-- **[ePoster](https://www.eccmid.org/scientific_programme/e-poster_gallery/)**: Electronic posters offer interactive elements and can be a more engaging way to present your research.
+- **ePoster**: Electronic posters offer interactive elements and can be a more engaging way to present your research.
 
-- **[Oral Presentation](https://www.eccmid.org/programme/scientific_programme/)**: Presenting your work orally allows you to deliver a concise and impactful overview of your research findings.
+- **eFlash Talk**: Some conferences provide this short oral form to present to a small group of people.
+
+- **Oral Presentation**: Presenting your work orally allows you to deliver a concise and impactful overview of your research findings. These 'orals' are often 8 to 12 minutes each. **Regular talks** are 15-30 minutes each, and **keynote lectures** are often 30-60 minutes.
 
 Remember that participating in conferences and seminars not only benefits your academic growth but also expands your professional network and opens doors for potential collaborations.
 
@@ -161,7 +183,7 @@ Our university provides free access to [EndNote](https://endnote.com) (by Clariv
 - [Papers](https://papersapp.com) (by ReadCube)
 - [Mendeley](https://www.mendeley.com) (by Elsevier)
 
-In my experience, Papers is the most effective choice. If you're dealing with dynamic programming files to manage your references, consider [Zotero](https://www.zotero.org).
+In my experience, all of EndNote, Papers and Mendeley are effective. I'm currenty using EndNote for its most advanced integration with MS Word, but I do find it buggy too often (EndNote 21.2). If you're dealing with dynamic programming files to manage your references, consider the open-source solution [Zotero](https://www.zotero.org) instead.
 
 Two important pieces of advice: **choose one EARLY** and **use it ALL THE TIME**. It's essential to avoid getting overwhelmed with references when you begin writing your manuscript. Also, in a later phase, you will want to be able to go back to older papers you read. Be sure to have them organised.
 
