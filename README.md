@@ -23,7 +23,7 @@ Notable abbreviations:
       - [Declaring costs](#declaring-costs)
       - [ECCMID - European Congress of Clinical Microbiology and Infectious Diseases](#eccmid---european-congress-of-clinical-microbiology-and-infectious-diseases)
       - [NVMM Scientific Spring Meeting](#nvmm-scientific-spring-meeting)
-      - [Presentation Formats](#presentation-formats)
+      - [Presentation Formats](#scientific-presentation-formats)
     - [Networking](#networking)
       - [LinkedIn](#linkedin)
       - [ResearchGate](#researchgate)
@@ -31,6 +31,7 @@ Notable abbreviations:
       - [Google Scholar](#google-scholar)
       - [The Importance of Internet Outreach](#the-importance-of-internet-outreach)
   - [Useful Resources / Links](#useful-resources--links)
+    - [Library Access](#library-access)
     - [Publishing](#publishing)
       - [Reference Management Software](#reference-management-software)
       - [Journal Browser](#journal-browser)
@@ -178,7 +179,7 @@ By actively networking and maintaining a strong online presence, you'll enhance 
 
 ### Library Access
 
-The RUG provides many sources for free if you are logged in via the university. You can always try any link by replacing the format of a `website some.website.com` to `some**-**website**-**com**.proxy-ub.rug.nl**`, so replace the dots in the full URL with hyphen, and append `.proxy-ub.rug.nl`. You will be requested your RUG credentials. A full list of all university sources was saved to this repo too: <https://github.com/msberends/PhD_student_info/blob/main/rug_bronnen.md>.
+The RUG provides many sources for free if you are logged in via the university. You can always try any link by replacing the format of a website `some.website.com` to `some-website-com.proxy-ub.rug.nl`, so replace the dots in the full URL with hyphens, and append `.proxy-ub.rug.nl`. You will be requested your RUG credentials. A full list of all university sources was saved to this repo too: <https://github.com/msberends/PhD_student_info/blob/main/rug_bronnen.md>.
 
 ### Publishing
 
