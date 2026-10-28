@@ -7,7 +7,7 @@ Notable abbreviations:
 - **UMCG**: University Medical Center Groningen
 - **GSMS**: Graduate School of Medical Sciences
 
-<small>2023-2024, Dr. Matthijs Berends.</small>
+<small>2023-2026, Dr. Matthijs Berends.</small>
 
 # Table of Contents
 
