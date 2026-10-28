@@ -49,7 +49,7 @@ Notable abbreviations:
 
 To begin your PhD journey, it's crucial to register with our Graduate School for Medical Sciences (GSMS). You'll encounter the abbreviation GSMS frequently during your studies. Keep in mind that GSMS manages the PhD student progress system known as 'Hora Finita', a term you'll also hear just before you receive your doctorate after successfully defending your thesis!
 
-You can initiate your registration [here](https://horafinita.rug.nl/registratie/).
+You can initiate your registration [here](https://horafinita.rug.nl/registratie/). Our research institute is PRECISION, our research group is AGE.
 
 ### PhD Regulations
 
@@ -175,6 +175,10 @@ By actively networking and maintaining a strong online presence, you'll enhance 
 
 ## Useful Resources / Links
 
+### Library Access
+
+The RUG provides many sources for free if you are logged in via the university. You can always try any link by replacing the format of a `website some.website.com` to `some**-**website**-**com**.proxy-ub.rug.nl**`, so replace the dots in the full URL with hyphen, and append `.proxy-ub.rug.nl`. You will be requested your RUG credentials. A full list of all university sources was saved to this repo too: <https://github.com/msberends/PhD_student_info/blob/main/rug_bronnen.md>.
+
 ### Publishing
 
 #### Reference Management Software
@@ -234,3 +238,4 @@ You can apply for [GitHub Education](https://education.github.com) for free, whi
 Through [SurfSpot](https://www.surfspot.nl), you can access the full Adobe Creative Suite at a cost of €20 per year, using your UG/UMCG account. This suite includes a comprehensive set of creative tools and applications that can be invaluable for various aspects of your research and presentations.
 
 Please feel free to reach out if you require more detailed information or assistance with any of these resources or if you have any other questions related to your PhD journey. Remember that you have a wealth of support and tools at your disposal to make your research and studies as productive and successful as possible.
+<
