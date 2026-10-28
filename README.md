@@ -2,7 +2,8 @@
 This page contains essential information for my PhD students. Although some parts of this page might be useful for any UG student, the focus lies on Medical Sciences, and within that on Clinical Microbiology / Infectious Diseases - my field of research.
 
 Notable abbreviations:
-- **UG**: University of Groningen  
+- **RUG**: Rijksuniversiteit Groningen
+- **UG**: University of Groningen, the formal English translation of RUG
 - **UMCG**: University Medical Center Groningen
 - **GSMS**: Graduate School of Medical Sciences
 
